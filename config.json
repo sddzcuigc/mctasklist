@@ -1,0 +1,72 @@
+[
+    {
+        "description": "完成一次身体锻炼挑战（奖励：15 经验值，1 铁块方块）",
+        "experience": 15,
+        "reward": "1 铁块方块",
+        "completed": false,
+        "difficulty": 2
+    },
+    {
+        "description": "完成一次电脑知识学习挑战（奖励：20 经验值，1.5 铁块方块）",
+        "experience": 20,
+        "reward": "1.5 铁块方块",
+        "completed": false,
+        "difficulty": 3
+    },
+    {
+        "description": "完成一次 Python 编程挑战（奖励：25 经验值，2 金方块）",
+        "experience": 25,
+        "reward": "2 金方块",
+        "completed": false,
+        "difficulty": 4
+    },
+    {
+        "description": "完成一本书的阅读（奖励：10 经验值，0.75 铁块方块）",
+        "experience": 10,
+        "reward": "0.75 铁块方块",
+        "completed": false,
+        "difficulty": 1
+    },
+    {
+        "description": "完成一次冥想练习（奖励：8 经验值，0.5 铁块方块）",
+        "experience": 8,
+        "reward": "0.5 铁块方块",
+        "completed": false,
+        "difficulty": 1
+    },
+    {
+        "description": "完成晨间例行事务（奖励：5 经验值，0.5 铁块方块）",
+        "experience": 5,
+        "reward": "0.5 铁块方块",
+        "completed": false,
+        "difficulty": 1
+    },
+    {
+        "description": "完成晚间例行事务（奖励：5 经验值，0.5 铁块方块）",
+        "experience": 5,
+        "reward": "0.5 铁块方块",
+        "completed": false,
+        "difficulty": 1
+    },
+    {
+        "description": "每天完成一次锻炼（奖励：10 经验值，1 铁块方块）",
+        "experience": 10,
+        "reward": "1 铁块方块",
+        "completed": false,
+        "difficulty": 2
+    },
+    {
+        "description": "每天完成一小时学习（奖励：7 经验值，0.75 铁块方块）",
+        "experience": 7,
+        "reward": "0.75 铁块方块",
+        "completed": false,
+        "difficulty": 1
+    },
+    {
+        "description": "每天完成一小时编程（奖励：12 经验值，1.25 铁块方块）",
+        "experience": 12,
+        "reward": "1.25 铁块方块",
+        "completed": false,
+        "difficulty": 2
+    }
+]
